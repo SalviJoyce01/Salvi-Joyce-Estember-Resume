@@ -1,0 +1,50 @@
+img{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 160px;
+  position: absolute;
+  top: 0px;
+  left: 200px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+header {
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    background: rgb(235, 97, 200);
+    color: #fff;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.job, .school {
+    margin-bottom: 20px;
+}
